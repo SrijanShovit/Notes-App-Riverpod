@@ -1,0 +1,6 @@
+1.Wrap ur Material App or My App with provider scope class to wrap entire app in it
+2.Create UI and form,do form validation
+3.Make provider and add  logic to it with notifyListeners()
+4.Convert notifier to provider
+5.Now call and use provider's methods and variables where needed 
+
